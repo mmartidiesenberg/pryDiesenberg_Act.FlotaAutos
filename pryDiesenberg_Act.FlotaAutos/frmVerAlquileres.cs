@@ -16,5 +16,10 @@ namespace pryDiesenberg_Act.FlotaAutos
         {
             InitializeComponent();
         }
+
+        private void frmVerAlquileres_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
